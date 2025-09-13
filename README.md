@@ -18,7 +18,7 @@ It compares sample DNA sequences against a reference to generate:
 - Matplotlib  
 - Tabulate
 
-# how to Run
+# how to run
 Clone this repository:
    ```bash
    git clone https://github.com/chinmayee-giridhar/neurotech_task_1.git
